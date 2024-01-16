@@ -99,6 +99,7 @@ function RightSide({user, handleLogOut}) {
               _logOutRedirect={_logOutRedirect}
             />
             }
+             <h1>the path to your</h1>
           </div>
         )}
       </SpaceBetween>
